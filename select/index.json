@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "オペラ！スペースオペラ！",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-01-04T14:00:05.408018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オペラ！スペースオペラ！ (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_オペラ!スペースオペラ!_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オペラ！スペースオペラ！",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_オペラ!スペースオペラ!_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オペラ! スペースオペラ!",
+      "artist": "ワンダーランズ x ショウタイム (廣瀬大介, 木野日菜, Machico, 土岐隼一) Feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/03_オペラ!_スペースオペラ!_ワンダーランズ_x_ショウタイム_(廣瀬大介,_木野日菜,_Machico,_土岐隼一)_Feat._鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オペラ!スペースオペラ!",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_オペラ!スペースオペラ!_ナユタン星人.txt"
+    }
+  ]
+}
